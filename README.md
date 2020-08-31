@@ -3,7 +3,7 @@
  </div>
 
 ![weibo](https://badgen.net/badge/weibo/crawl/cyan?icon=github)
-![GitHub license](https://badgen.net/github/license/HUANGZHIHAO1994/weibo-crawler?color=green)
+![license](https://badgen.net/github/license/HUANGZHIHAO1994/weibo-crawler?color=green)
 
 ## 感谢原作者大佬dataabc
 
