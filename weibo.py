@@ -1113,7 +1113,9 @@ def get_config():
 
 def main():
     try:
+        uid_list = ["1227368500", "1223178222"]
         config = get_config()
+        config['user_id_list'] = uid_list
         wb = Weibo(config)
         wb.start()  # 爬取微博信息
     except Exception as e:
